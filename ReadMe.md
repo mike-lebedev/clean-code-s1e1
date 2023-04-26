@@ -1,4 +1,4 @@
-<img width="1199" alt="code-quality-task-screenshot" src="https://user-images.githubusercontent.com/8201843/113413843-4080fb80-93c4-11eb-9f20-15e4b4c1e430.png">
+![image](https://user-images.githubusercontent.com/120141810/234009371-925d98c3-d667-4903-893a-0b0c95b13b6a.png)
 
 # Функционал приложения :
 
